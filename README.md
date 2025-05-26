@@ -4,12 +4,16 @@
 
 <h2 align="center">Hi 👋, I'm Ankit Ghosal</h2>
 <h3 align="center">A Passionate Coder and AI enthusiast </h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/121814714/222189810-23ce992a-17a7-427c-bae7-253f3ae6ac1e.gif">
 
+**About me**
 
-- 💻 I’m currently working on coding on algorithms and Straamlit projects
+- 📈 Currently learning Deep learning and Machine Learning with python libraries
+- ❤️ I love coding related to DSA and building projects
+- ⚡ I have interest for electronics and VLSI design
+- 📊 I love to study data visualization and analysis
 
-- 🤖 I’m currently learning "Machine learning" by python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
