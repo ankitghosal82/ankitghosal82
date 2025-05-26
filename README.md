@@ -13,6 +13,9 @@
 - ❤️ I love coding related to DSA and building projects
 - ⚡ I have interest for electronics and VLSI design
 - 📊 I love to study data visualization and analysis
+-  💬 Ask me about **Data structures,algorithms , Python**
+
+- 📫 How to reach me **ankitghosal82@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
